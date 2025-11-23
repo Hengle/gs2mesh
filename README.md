@@ -407,3 +407,4 @@ If you use GS2Mesh or parts of our code in your work, please cite the following 
 ```
 ## License
 The Gaussian Splatting library is under the [Gaussian-Splatting License](https://github.com/graphdeco-inria/gaussian-splatting/blob/main/LICENSE.md).
+All original GS2Mesh code is under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0.txt).
